@@ -1,2 +1,2 @@
 # Top-5-Beginner-Friendly-Azure-Labs-to-Help-You-Pass-AZ-104
- These projects document practical Azure administration and security tasks, including virtual machine deployment, role-based access control, Azure Policy, secure storage, network isolation,  disaster recovery, and least privilege access enforcement.
+ This repository contains five easy, hands-on Microsoft Azure projects designed to help beginners study for the AZ-104 Azure Administrator exam. Each project focuses on practical Azure skills like deploying virtual machines, configuring RBAC, creating VNets and storage accounts, setting up monitoring and alerts, managing backup and recovery, and deploying apps with Azure App Service.
